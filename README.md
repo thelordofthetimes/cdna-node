@@ -1,4 +1,4 @@
 # cdna-node
 cdna node
 
-updating
+new version for cdna with node architecture
