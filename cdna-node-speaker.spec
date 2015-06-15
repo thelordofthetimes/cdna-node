@@ -1,0 +1,1 @@
+node-speaker --host localhost --port 9001
